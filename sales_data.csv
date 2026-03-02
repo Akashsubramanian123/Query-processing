@@ -1,0 +1,19 @@
+OrderDate,Region,Manager,SalesMan,Item,Units,Unit_price,Sale_amt
+2018-01-06,East,Martha,Alexander,Television,95,1198,113810
+2018-01-23,Central,Hermann,Shelli,Home Theater,50,500,25000
+2018-02-09,Central,Hermann,Luis,Television,36,1198,43128
+2018-02-26,Central,Timothy,David,Cell Phone,27,225,6075
+2018-03-15,West,Timothy,Stephen,Television,56,1198,67088
+2018-04-01,East,Martha,Alexander,Home Theater,60,500,30000
+2018-04-18,Central,Martha,Steven,Television,75,1198,89850
+2018-05-05,Central,Hermann,Luis,Television,90,1198,107820
+2018-05-22,West,Douglas,Michael,Television,32,1198,38336
+2018-06-08,East,Martha,Alexander,Home Theater,60,500,30000
+2018-06-25,Central,Hermann,Sigal,Television,90,1198,107820
+2018-07-12,East,Martha,Diana,Home Theater,29,500,14500
+2018-07-29,East,Douglas,Karen,Home Theater,81,500,40500
+2018-08-15,East,Martha,Alexander,Television,35,1198,41930
+2018-09-01,Central,Douglas,John,Desk,2,125,250
+2018-09-18,East,Martha,Alexander,Video Games,16,58.5,936
+2018-10-05,Central,Hermann,Sigal,Home Theater,28,500,14000
+2018-10-22,East,Martha,Alexander,Cell Phone,64,225,14400
